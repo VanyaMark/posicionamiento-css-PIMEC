@@ -19,7 +19,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 1. Coloca la estrellita encima de Mario. SOLAMENTE hay que añadir algunas propiedades a los selectores adecuados, no tocar el HTML.
 2. Cuando lo consigas, haz más pequeño el viewport(haz más pequeña la ventana del navegador), y comprueba si tu código sigue funcionando
 
-<video width="90%" height="90%" controls autoplay><source src="https://oscarm.tinytake.com/df/15fddef/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview" type="video/mp4">Your browser does not support the video tag.</video><br />
+[Demo](https://oscarm.tinytake.com/df/15fddef/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
 
 ## Posicionamiento-fixed
 
